@@ -1,0 +1,13 @@
+{
+  "collectionName": "components_meta_meta_data",
+  "info": {
+    "displayName": "Meta Data",
+    "icon": "asterisk"
+  },
+  "options": {},
+  "attributes": {
+    "metaTitle": {
+      "type": "string"
+    }
+  }
+}
